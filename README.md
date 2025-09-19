@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Victor
+# 👨🏽‍💻 João Victor
 
 **`Game Developer`**
 
