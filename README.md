@@ -68,6 +68,16 @@ Me chamo João Victor Matos de Oliveira, tenho 20 anos e sou natural de Belo Hor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Godot"
+    title="Godot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Blender"
