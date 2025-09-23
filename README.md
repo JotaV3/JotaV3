@@ -1,8 +1,8 @@
-# 👨🏽‍💻 João Victor
+# Hi there! 👋
 
 **`Game Developer`**
 
-Hi there! 👋 I’m João Victor Matos de Oliveira, a Computer Science student passionate about game development.
+I’m João Victor Matos de Oliveira, a Computer Science student passionate about game development.
 Currently working with Unity, with previous experience in Unreal Engine.
 I have programmed in C, C#, and Java, and I’m always eager to learn and improve as a developer.
 
