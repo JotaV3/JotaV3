@@ -8,7 +8,7 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
 
 ---
 
-### 🤖 Programing languages and Tecnologies
+### 🤖 Programming languages and Technologies
 
 <img 
     align="left" 
@@ -91,8 +91,8 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
 
 <img 
     align="left" 
-    alt="C (linguagem de programação)" 
-    title="C (linguagem de programação)"
+    alt="C (programming language)" 
+    title="C (programming language)"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -134,7 +134,7 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statics
 
 <p>
   <img 
@@ -142,14 +142,14 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=eu" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
