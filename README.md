@@ -142,7 +142,7 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=eu" 
+    src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
   />
 
 <img 
