@@ -134,7 +134,7 @@ I have programmed in C, C#, and Java, and I’m always eager to learn and improv
 <br/>
 <br/>
 
-### 📊 Statics
+### 📊 Statistics
 
 <p>
   <img 
