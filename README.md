@@ -1,4 +1,4 @@
-# 🎮 Game and C# Developer
+# 💻 Game and C# Developer
 
 Hi there! 👋
 
