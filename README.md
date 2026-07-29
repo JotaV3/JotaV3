@@ -1,4 +1,4 @@
-# 💻 Computer Science Student | C#, .NET & Unity Developer
+# 💻 Computer Science Student | Java, C#, .NET & Unity Developer
 
 Hi there! 👋
 
