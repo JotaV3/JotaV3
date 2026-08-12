@@ -1,19 +1,20 @@
-# 💻 Computer Science Student | Java, C#, .NET & Unity Developer
+# 💻 Computer Science Student | Java & C#/.NET | Unity
 
-Hi there! 👋
+Hi there! 👋 I'm **João Victor**, a Computer Science student passionate about **software development and game development**.
 
-I'm **João Victor**, a Computer Science student passionate about software development and game development.
+I'm currently focused on building a strong foundation in **backend development**, working mainly with **Java, C#/.NET, SQL, and databases**, while continuing to develop projects with **Unity**.
 
-Currently, I'm expanding my skills in **C#/.NET**, **ASP.NET Core**, **Java**, and **Unity**, building projects to strengthen my programming fundamentals and prepare for professional opportunities.
+I'm constantly learning through personal projects, programming courses, and hands-on practice, with the goal of starting my career as a software developer.
 
-## 🚀 What I'm currently learning
+## 🎯 Current Focus
 
-* ☕ Java
-* 🔷 C# and .NET
-* 🌐 ASP.NET Core Web API
-* 🎮 Unity Game Development
-* 🗄️ SQL Server & Databases
-* 🌱 Object-Oriented Programming, Clean Code and Design Principles
+* ☕ **Java** — OOP, Collections, Streams, JDBC and backend fundamentals
+* 🔷 **C# / .NET** — Object-Oriented Programming and application development
+* 🌐 **Backend Development** — REST APIs and ASP.NET Core / Spring Boot
+* 🗄️ **Databases** — SQL, MySQL and SQL Server
+* 🎮 **Unity** — Gameplay programming and game development
+* 🧠 **Data Structures & Algorithms**
+* 🧹 **Clean Code & Software Design**
 
 ---
 
@@ -22,25 +23,28 @@ Currently, I'm expanding my skills in **C#/.NET**, **ASP.NET Core**, **Java**, a
 ### Main Technologies
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/github/white" width="40"/>
 </p>
 
+### Backend & Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+</p>
+
 ### Other Technologies
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30"/>
@@ -50,9 +54,29 @@ Currently, I'm expanding my skills in **C#/.NET**, **ASP.NET Core**, **Java**, a
 
 # 🚀 Featured Projects
 
-### 🎮 Unity Learn – Junior Programmer
+### ☕ Java — DAO & JDBC
 
-Gameplay programming project developed during the Unity Learn pathway.
+Backend study project focused on database access using **JDBC** and the **DAO pattern**.
+
+**Technologies:** Java • JDBC • MySQL • DAO • OOP
+
+🔗 https://github.com/JotaV3/demo-dao-jdbc-java
+
+---
+
+### ☕ Java — Stream API & Lambdas
+
+Project focused on processing collections using **Java Streams, Lambdas and functional programming concepts**.
+
+**Technologies:** Java • Stream API • Lambda Expressions • Collections
+
+🔗 https://github.com/JotaV3/employee-stream-analyzer-java
+
+---
+
+### 🎮 Unity Learn — Junior Programmer
+
+Gameplay programming project developed as part of the **Unity Learn Junior Programmer pathway**.
 
 **Technologies:** Unity • C#
 
@@ -60,50 +84,45 @@ Gameplay programming project developed during the Unity Learn pathway.
 
 ---
 
-### 🎮 JoKenPo Game
+### 🎮 JoKenPo
 
-Desktop application built with Windows Forms, focusing on object-oriented programming and UI interaction.
+Desktop game developed with **Windows Forms**, focusing on object-oriented programming, application logic and UI interaction.
 
-**Technologies:** C# • .NET • Windows Forms
+**Technologies:** C# • .NET • Windows Forms • OOP
 
 🔗 https://github.com/JotaV3/JokenPo-csharp
 
 ---
 
-<!--
-/*### 🌐 ASP.NET Core Projects
+# 📚 Currently Learning
 
-Currently developing REST APIs and backend applications using ASP.NET Core and SQL Server.
-
-*(Coming soon...)*
-
----
-
-### ☕ Java Projects
-
-Repository with Java exercises and projects covering object-oriented programming, exception handling, collections, and backend fundamentals.
-
-*(In progress...)*
-
----*/
--->
-
-# 📚 Currently Working On
-
-* Learning Java for backend development
-* Building ASP.NET Core Web APIs
-* Practicing Data Structures and Algorithms
-* Improving SQL knowledge
-* Developing Unity gameplay systems
+* Java backend development
+* Spring Boot
+* REST APIs
+* JDBC and database integration
+* SQL and database design
+* Data Structures & Algorithms
+* C# / .NET
+* Unity gameplay programming
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-matos-de-oliveira-3b41b6300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
