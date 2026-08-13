@@ -74,6 +74,16 @@ Project focused on processing collections using **Java Streams, Lambdas and func
 
 ---
 
+### 🎮 KitchenChaos
+
+A cooking game project developed in Unity, focused on gameplay programming, player interaction, game systems and object-oriented programming.
+
+**Technologies:** Unity • C#
+
+🔗 https://github.com/JotaV3/KitchenChaos
+
+---
+
 ### 🎮 Unity Learn — Junior Programmer
 
 Gameplay programming project developed as part of the **Unity Learn Junior Programmer pathway**.
@@ -81,16 +91,6 @@ Gameplay programming project developed as part of the **Unity Learn Junior Progr
 **Technologies:** Unity • C#
 
 🔗 https://github.com/JotaV3/UnityLearn_JuniorProgrammer
-
----
-
-### 🎮 JoKenPo
-
-Desktop game developed with **Windows Forms**, focusing on object-oriented programming, application logic and UI interaction.
-
-**Technologies:** C# • .NET • Windows Forms • OOP
-
-🔗 https://github.com/JotaV3/JokenPo-csharp
 
 ---
 
