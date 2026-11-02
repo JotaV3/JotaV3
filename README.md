@@ -1,4 +1,4 @@
-# João Victor Matos
+# João Victor Matos de Oliveira
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot+%7C+Angular;SQL+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
