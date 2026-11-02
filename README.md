@@ -1,117 +1,94 @@
-# 💻 Computer Science Student | Java & C#/.NET | Unity
+# João Victor Matos
 
-Hi there! 👋 I'm **João Victor**, a Computer Science student passionate about **software development and game development**.
-
-I'm currently focused on building a strong foundation in **backend development**, working mainly with **Java, C#/.NET, SQL, and databases**, while continuing to develop projects with **Unity**.
-
-I'm constantly learning through personal projects, programming courses, and hands-on practice, with the goal of starting my career as a software developer.
-
-## 🎯 Current Focus
-
-* ☕ **Java** — OOP, Collections, Streams, JDBC and backend fundamentals
-* 🔷 **C# / .NET** — Object-Oriented Programming and application development
-* 🌐 **Backend Development** — REST APIs and ASP.NET Core / Spring Boot
-* 🗄️ **Databases** — SQL, MySQL and SQL Server
-* 🎮 **Unity** — Gameplay programming and game development
-* 🧠 **Data Structures & Algorithms**
-* 🧹 **Clean Code & Software Design**
-
----
-
-# 🛠️ Tech Stack
-
-### Main Technologies
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/github/white" width="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot+%7C+Angular;SQL+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
 </p>
 
-### Backend & Databases
+Hi there! 👋 I'm João Victor, a Computer Science student and a software developer in progress, focused on building complete applications from backend to frontend.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+I am currently strengthening my skills in:
+- Java and Spring Boot
+- Angular and TypeScript
+- REST APIs
+- SQL and relational databases
+- C# and .NET
+- Clean code and software architecture
+
+My goal is to evolve into a Full Stack developer, creating solutions that connect robust APIs with modern, user-friendly interfaces.
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</div>
+
+---
+
+## Current Focus
+
+- ☕ Java backend development
+- 🌱 Spring Boot and REST APIs
+- 🌐 Angular and frontend integration
+- 🗄️ SQL, JPA, and database design
+- 🧩 System architecture and software quality
+- 🔧 Full Stack application development
+
+---
+
+## Featured Projects
+
+### Backend / Java
+- [planning-api-java](https://github.com/JotaV3/planning-api-java) — Financial management API built with Spring Boot
+- [todolist-api-java](https://github.com/JotaV3/todolist-api-java) — To-do list REST API in development
+- [workshop-api-java](https://github.com/JotaV3/workshop-api-java) — Study project focused on Spring, JPA and Hibernate
+- [jdbc-java](https://github.com/JotaV3/jdbc-java) — JDBC and database interaction studies
+- [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — DAO pattern and database access
+
+### Frontend / Angular
+- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular studies and exercises
+
+### C# / .NET
+- [CRUDSystem-csharp](https://github.com/JotaV3/CRUDSystem-csharp)
+- [JoKenPo-csharp](https://github.com/JotaV3/JoKenPo-csharp)
+- [WindowsForms-csharp](https://github.com/JotaV3/WindowsForms-csharp)
+- [Threads-csharp](https://github.com/JotaV3/Threads-csharp)
+
+### Game Development
+- [KitchenChaos](https://github.com/JotaV3/KitchenChaos)
+- [Pawtners](https://github.com/JotaV3/Pawtners)
+- [FlappyBird3D](https://github.com/JotaV3/FlappyBird3D)
+
+---
+
+## Learning Path
+
+- Spring Boot advanced concepts
+- Angular fundamentals and architecture
+- API consumption in frontend applications
+- Authentication and authorization
+- Database integration in full stack projects
+- Software engineering and best practices
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight"/>
 </p>
 
-### Other Technologies
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30"/>
-</p>
-
 ---
 
-# 🚀 Featured Projects
+## Contact
 
-### ☕ Java — DAO & JDBC
-
-Backend study project focused on database access using **JDBC** and the **DAO pattern**.
-
-**Technologies:** Java • JDBC • MySQL • DAO • OOP
-
-🔗 https://github.com/JotaV3/demo-dao-jdbc-java
-
----
-
-### ☕ Java — Stream API & Lambdas
-
-Project focused on processing collections using **Java Streams, Lambdas and functional programming concepts**.
-
-**Technologies:** Java • Stream API • Lambda Expressions • Collections
-
-🔗 https://github.com/JotaV3/employee-stream-analyzer-java
-
----
-
-### 🎮 KitchenChaos
-
-A cooking game project developed in Unity, focused on gameplay programming, player interaction, game systems and object-oriented programming.
-
-**Technologies:** Unity • C#
-
-🔗 https://github.com/JotaV3/KitchenChaos
-
----
-
-### 🎮 Unity Learn — Junior Programmer
-
-Gameplay programming project developed as part of the **Unity Learn Junior Programmer pathway**.
-
-**Technologies:** Unity • C#
-
-🔗 https://github.com/JotaV3/UnityLearn_JuniorProgrammer
-
----
-
-# 📚 Currently Learning
-
-* Java backend development
-* Spring Boot
-* REST APIs
-* JDBC and database integration
-* SQL and database design
-* Data Structures & Algorithms
-* C# / .NET
-* Unity gameplay programming
-
----
-
-# 📫 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-matos-de-oliveira-3b41b6300/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-matos-de-oliveira-3b41b6300/)
