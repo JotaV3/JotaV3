@@ -84,15 +84,6 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 
 <p align="center">
   <a href="https://github.com/JotaV3">
-    <img src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/JotaV3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JotaV3">
     <img src="https://streak-stats.demolab.com/?user=JotaV3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
