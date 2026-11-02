@@ -1,7 +1,7 @@
 # João Victor Matos de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot+%7C+Angular;SQL+%7C+TypeScript+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot;Angular+%7C+TypeScript;Building+APIs+and+interfaces" alt="Typing SVG" />
 </p>
 
 Hi there! 👋 I'm João Victor, a Computer Science student and a software developer in progress, focused on building complete applications from backend to frontend.
@@ -83,8 +83,18 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/JotaV3">
+    <img src="https://github-readme-stats.vercel.app/api?username=JotaV3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/JotaV3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaV3&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JotaV3">
+    <img src="https://streak-stats.demolab.com/?user=JotaV3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
