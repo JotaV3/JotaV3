@@ -26,6 +26,7 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -46,15 +47,19 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 
 ## Featured Projects
 
-### Backend / Java
-- [planning-api-java](https://github.com/JotaV3/planning-api-java) — Financial management API built with Spring Boot
-- [todolist-api-java](https://github.com/JotaV3/todolist-api-java) — To-do list REST API in development
-- [workshop-api-java](https://github.com/JotaV3/workshop-api-java) — Study project focused on Spring, JPA and Hibernate
+### Backend / Spring Boot
+- [todolist-api-java](https://github.com/JotaV3/todolist-api-java) — A REST API built with Java, Spring Boot, and Spring Data JPA.
+- [workshop-api-java](https://github.com/JotaV3/workshop-api-java) — A Spring Boot project focused on REST APIs, JPA, and Hibernate.
+- [college-activities-sql](https://github.com/JotaV3/college-activities-sql) — Database and SQL exercises from my Computer Science studies.
+- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular and TypeScript learning projects.
 - [jdbc-java](https://github.com/JotaV3/jdbc-java) — JDBC and database interaction studies
 - [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — DAO pattern and database access
 
 ### Frontend / Angular
 - [angular-studies](https://github.com/JotaV3/angular-studies) — Angular studies and exercises
+
+### Full Stack / Spring Boot + Angular
+- [planning-dashboard](https://github.com/JotaV3/planning-dashboard) — A work-in-progress expense management project using Spring Boot and Angular.
 
 ### C# / .NET
 - [CRUDSystem-csharp](https://github.com/JotaV3/CRUDSystem-csharp)
@@ -62,7 +67,7 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 - [WindowsForms-csharp](https://github.com/JotaV3/WindowsForms-csharp)
 - [Threads-csharp](https://github.com/JotaV3/Threads-csharp)
 
-### Game Development
+### Game Development / Unity
 - [KitchenChaos](https://github.com/JotaV3/KitchenChaos)
 - [Pawtners](https://github.com/JotaV3/Pawtners)
 - [FlappyBird3D](https://github.com/JotaV3/FlappyBird3D)
