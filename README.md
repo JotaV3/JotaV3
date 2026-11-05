@@ -52,11 +52,12 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 - [workshop-api-java](https://github.com/JotaV3/workshop-api-java) — A Spring Boot project focused on REST APIs, JPA, and Hibernate.
 - [college-activities-sql](https://github.com/JotaV3/college-activities-sql) — Database and SQL exercises from my Computer Science studies.
 - [angular-studies](https://github.com/JotaV3/angular-studies) — Angular and TypeScript learning projects.
-- [jdbc-java](https://github.com/JotaV3/jdbc-java) — JDBC and database interaction studies
-- [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — DAO pattern and database access
+- [jdbc-java](https://github.com/JotaV3/jdbc-java) — JDBC and database interaction studies.
+- [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — DAO pattern and database access.
 
 ### Frontend / Angular
-- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular studies and exercises
+- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular studies and exercises.
+- [todolist-app-angular](https://github.com/JotaV3/todolist-app-angular) — To-do List built with Angular.
 
 ### Full Stack / Spring Boot + Angular
 - [planning-dashboard](https://github.com/JotaV3/planning-dashboard) — A work-in-progress expense management project using Spring Boot and Angular.
