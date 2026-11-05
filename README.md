@@ -1,12 +1,12 @@
 # João Victor Matos de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot;Angular+%7C+TypeScript;Building+APIs+and+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B3FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer+in+progress;Java+%7C+Spring+Boot+%7C+Angular" alt="Computer Science Student | Full Stack Developer in progress | Java, Spring Boot, Angular" />
 </p>
 
-Hi there! 👋 I'm João Victor, a Computer Science student and a software developer in progress, focused on building complete applications from backend to frontend.
+Hi there! 👋 I'm João Victor, a Computer Science student and software developer in progress, focused on building complete applications from backend to frontend.
 
-I am currently strengthening my skills in:
+I'm currently strengthening my skills in:
 - Java and Spring Boot
 - Angular and TypeScript
 - REST APIs
@@ -14,7 +14,18 @@ I am currently strengthening my skills in:
 - C# and .NET
 - Clean code and software architecture
 
-My goal is to evolve into a Full Stack developer, creating solutions that connect robust APIs with modern, user-friendly interfaces.
+My goal is to grow into a Full Stack developer, creating solutions that connect robust APIs with modern, user-friendly interfaces.
+
+---
+
+## 🚀 Live Projects
+
+These Angular projects are deployed with GitHub Pages—give them a try!
+
+| Project | Live Demo | Source Code |
+| --- | --- | --- |
+| **To-do List App** | [Open app](https://jotav3.github.io/todolist-app-angular/) | [Repository](https://github.com/JotaV3/todolist-app-angular) |
+| **Planning App** | [Open app](https://jotav3.github.io/planning-app-angular/) | [Repository](https://github.com/JotaV3/planning-app-angular) |
 
 ---
 
@@ -47,20 +58,18 @@ My goal is to evolve into a Full Stack developer, creating solutions that connec
 
 ## Featured Projects
 
-### Backend / Spring Boot
+### Backend / Java
 - [todolist-api-java](https://github.com/JotaV3/todolist-api-java) — A REST API built with Java, Spring Boot, and Spring Data JPA.
 - [workshop-api-java](https://github.com/JotaV3/workshop-api-java) — A Spring Boot project focused on REST APIs, JPA, and Hibernate.
-- [college-activities-sql](https://github.com/JotaV3/college-activities-sql) — Database and SQL exercises from my Computer Science studies.
-- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular and TypeScript learning projects.
+- [planning-api-java](https://github.com/JotaV3/planning-api-java) — An expense management API built with Spring Boot; backend development is in progress.
 - [jdbc-java](https://github.com/JotaV3/jdbc-java) — JDBC and database interaction studies.
-- [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — DAO pattern and database access.
+- [demo-dao-jdbc-java](https://github.com/JotaV3/demo-dao-jdbc-java) — A Java project demonstrating database access with the DAO pattern.
+- [college-activities-sql](https://github.com/JotaV3/college-activities-sql) — Database and SQL exercises from my Computer Science studies.
 
 ### Frontend / Angular
-- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular studies and exercises.
-- [todolist-app-angular](https://github.com/JotaV3/todolist-app-angular) — To-do List built with Angular.
-
-### Full Stack / Spring Boot + Angular
-- [planning-dashboard](https://github.com/JotaV3/planning-dashboard) — A work-in-progress expense management project using Spring Boot and Angular.
+- [todolist-app-angular](https://github.com/JotaV3/todolist-app-angular) — To-do List app. [Live demo](https://jotav3.github.io/todolist-app-angular/).
+- [planning-app-angular](https://github.com/JotaV3/planning-app-angular) — Planning app. [Live demo](https://jotav3.github.io/planning-app-angular/).
+- [angular-studies](https://github.com/JotaV3/angular-studies) — Angular and TypeScript learning projects.
 
 ### C# / .NET
 - [CRUDSystem-csharp](https://github.com/JotaV3/CRUDSystem-csharp)
